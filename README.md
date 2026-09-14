@@ -24,7 +24,7 @@ MacroFlow 会记录你在任意软件里的键盘和鼠标操作，存成一个�
 
 | 项目 | 最低要求 |
 | --- | --- |
-| 操作系统 | **macOS 13 Ventura** 或更高版本 |
+| 操作系统 | **macOS 12 Monterey** 或更高版本 |
 | 处理器 | Apple Silicon 或 Intel（Universal 二进制） |
 | 内存 | 建议 4 GB 及以上 |
 | 磁盘空间 | 约 50 MB 可用空间 |
