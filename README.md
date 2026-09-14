@@ -4,7 +4,7 @@
   <img src="./assets/app-icon.png" width="128" alt="MacroFlow 图标">
 </p>
 
-> 录一遍操作，之后交给它重复。
+> 录一遍操作，之后交给它重复。（自己用mac电脑没找到类似好用的软件，所以自己写了一个）
 
 ---
 
